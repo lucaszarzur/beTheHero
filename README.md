@@ -1,4 +1,3 @@
-# beTheHero
 <h4 align="center">
 <img src="./frontend/src/assets/logo.svg" width="250px" /><br>
  <b>Seja um verdadeiro Heroi!</b> 🦸‍♂️
